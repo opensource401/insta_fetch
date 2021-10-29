@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 // ignore: camel_case_types
 class insta {
+  //
 
   String? _followers, _following, _website, _bio, _imgurl, _username;
   List<String>? _feedImagesUrl;
